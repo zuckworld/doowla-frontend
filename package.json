@@ -1,0 +1,40 @@
+{
+  "name": "doowla-ui",
+  "version": "1.0.0",
+  "description": "Doowla Payment Platform - Professional Stripe-like UI",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.3.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.0.0",
+    "date-fns": "^2.30.0",
+    "framer-motion": "^10.18.0",
+    "lottie-react": "^2.4.1",
+    "lucide-react": "^0.292.0",
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.47.0",
+    "react-hot-toast": "^2.5.2",
+    "react-lottie-player": "^2.1.0",
+    "recharts": "^2.8.0",
+    "tailwind-merge": "^2.0.0",
+    "zod": "^3.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.1",
+    "@types/react": "^18.3.23",
+    "@types/react-dom": "^18.3.7",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^8.52.0",
+    "eslint-config-next": "^14.0.0",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.2.0"
+  }
+}
